@@ -9,7 +9,7 @@ import javax.persistence.Table;
 import javax.persistence.UniqueConstraint;
 
 @Entity
-@Table(name = "user_table2")
+@Table(name = "user_table3")
 /*
  * @Table(name =
  * "user_table",uniqueConstraints={@UniqueConstraint(columnNames={"email"})})
